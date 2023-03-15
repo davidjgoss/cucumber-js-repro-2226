@@ -1,0 +1,7 @@
+{
+  "default": {
+    "baseURL": "http://localhost:8080",
+    "require": ["src/support/**/*.js"],
+    "paths": ["src/features/*.feature"]
+  }
+}
