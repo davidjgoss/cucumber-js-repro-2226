@@ -5,6 +5,6 @@
     "test": "DEBUG=cucumber npx cucumber-js --config src/config.json src/features/*.feature"
   },
   "devDependencies": {
-    "@cucumber/cucumber": "^9.0.0"
+    "@cucumber/cucumber": "^9.0.1"
   }
 }
